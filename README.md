@@ -16,7 +16,7 @@ Ahadith App app is open-source  app for Android & ios. It is built with Dart on 
 
 
 
-## 👻📱 Screens
+## 📱 Screens
 - [🖥] # Screens 🖥
 - [✅] Splash Screen
 - [✅] Home Screen
