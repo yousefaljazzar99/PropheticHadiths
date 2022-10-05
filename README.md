@@ -16,7 +16,7 @@ Ahadith App app is open-source  app for Android & ios. It is built with Dart on 
 
 
 
-## Benfit👻
+## 👻📱 Screens
 - [🖥] # Screens 🖥
 - [✅] Splash Screen
 - [✅] Home Screen
@@ -24,12 +24,14 @@ Ahadith App app is open-source  app for Android & ios. It is built with Dart on 
 - [✅] Fav Video Screen
 - [✅] Audio Ahadith Screen
 --------------------------------
+## 🧑‍💻Dependencies
 - [✅] [AudioPlayer]
 - [✅] [path_provider]
 - [✅] [flutter_svg]
 - [✅] [share]
 
 --------------------------------
+## ⚒️Design Patterns
 - [✅] MVC patterns
 -------------------------------
 
@@ -45,10 +47,4 @@ Ahadith App app is open-source  app for Android & ios. It is built with Dart on 
 
 ![10](https://user-images.githubusercontent.com/49205538/194086769-059b8869-4473-4bd5-9b34-98888e923e61.png)
 
-
-## Dependencies 💤
-[✅]  `path_provider:`
-[✅] `flutter_svg:`
-[✅]  `audioplayers:`
-[✅]  `share:`
 
